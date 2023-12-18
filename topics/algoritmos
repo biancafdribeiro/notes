@@ -1,1 +1,1 @@
-
+- A declaração da variável deve ser feita de forma separada da atribuição do valor. Quando você declara uma variável, como int antecessor -= valor;, o compilador do C# não permite isso, pois a declaração de variável não deve conter operadores como -=.
